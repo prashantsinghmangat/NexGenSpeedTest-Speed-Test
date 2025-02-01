@@ -1,5 +1,10 @@
 # Sppedmeter - Internet Speed Test Application
 
+## Created By
+
+**Prashant Singh Mangat**  
+Portfolio: [https://prashantsinghmangat.netlify.app/](https://prashantsinghmangat.netlify.app/)
+
 A modern, beautiful internet speed testing application built with React and TypeScript. Test your internet connection speed with an elegant UI featuring a real-time speedometer visualization.
 
 ![Sppedmeter Preview](https://images.unsplash.com/photo-1544197150-b99a580bb7a8?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80)
@@ -95,11 +100,6 @@ npm run build
 ## Contributing
 
 Feel free to submit issues and enhancement requests.
-
-## Created By
-
-**Prashant Singh Mangat**  
-Portfolio: [https://prashantsinghmangat.netlify.app/](https://prashantsinghmangat.netlify.app/)
 
 ## License
 
